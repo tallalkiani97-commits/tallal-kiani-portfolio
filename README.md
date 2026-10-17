@@ -6,4 +6,4 @@ The private backup remains in `tallal-kiani-ai-series`.
 
 ## Project collection
 
-The Originals rail links to six portfolio projects plus the new [Agentic RAG Knowledge Assistant](https://github.com/tallalkiani97-commits/agentic-rag-knowledge-assistant).
+The Originals rail links to seven portfolio projects, including the [AURA Botanical Sparkling Tea](https://github.com/tallalkiani97-commits/aura-botanical-tea) product-experience site and the [Agentic RAG Knowledge Assistant](https://github.com/tallalkiani97-commits/agentic-rag-knowledge-assistant).
